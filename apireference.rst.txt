@@ -1,0 +1,2 @@
+.. autoclass:: github_webhook.Webhook
+   :members:
