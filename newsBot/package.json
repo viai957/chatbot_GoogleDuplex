@@ -13,7 +13,7 @@
     "feed-read": "0.0.1",
     "jade": "~1.11.0",
     "mongodb": "^2.1.18",
-    "mongoose": "^4.5.1",
+    "mongoose": "^6.4.6",
     "morgan": "~1.6.1",
     "node-schedule": "^1.1.1",
     "node-wit": "^4.0.0",
